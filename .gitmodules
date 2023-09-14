@@ -1,0 +1,6 @@
+[submodule "oee-backend"]
+	path = oee-backend
+	url = https://github.com/nhtY/oee-backend.git
+[submodule "oee-frontend"]
+	path = oee-frontend
+	url = https://github.com/nhtY/oee-frontend.git
